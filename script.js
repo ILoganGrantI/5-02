@@ -1,6 +1,5 @@
-document.getElementById('message').addEventListener
-('click', displayMessage)
+document.getElementById('message').addEventListener('click', displayMessage)
 
 function displayMessage () {
-	alert("Hello")
+  alert('Hello')
 }
